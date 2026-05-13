@@ -1,4 +1,6 @@
-Vrinda Store — Annual Sales Analysis 2022
+**Vrinda Store — Annual Sales Analysis 2022**
+
+
 This is an end-to-end Excel data analysis project on Vrinda Store's 2022 sales data. I cleaned and preprocessed the raw data, built pivot tables, applied filters, and created charts to extract meaningful business insights across 6 key areas.
 
 Total dataset: 31,047 orders | Total revenue: ₹2.11 Crore
