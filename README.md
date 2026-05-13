@@ -22,7 +22,7 @@ Broke down total revenue by gender to understand the core customer base.
 
 ### 3. Order Status Breakdown
 Analyzed delivery performance across all orders.
-- **Delivered:** 28,641 (92.2%) ✅
+- **Delivered:** 28,641 (92.2%) 
 - **Returned:** 1,045 (3.4%)
 - **Cancelled:** 844 (2.7%)
 - **Refunded:** 517 (1.7%)
